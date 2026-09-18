@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-orange.svg)](https://pytorch.org/)
 [![PennyLane 0.30+](https://img.shields.io/badge/pennylane-0.30+-purple.svg)](https://pennylane.ai/)
-[![License: INQUIRE Academic](https://img.shields.io/badge/License-INQUIRE%20Academic-red.svg)](LICENSE)
+[![License: Noncommercial](https://img.shields.io/badge/License-Noncommercial-blue.svg)](LICENSE)
 
 Official reproducibility repository for **Quantum Machine Learning Post-Hoc Classifiers on Frozen Graph Embeddings for Metal-Insulator Transition (MIT) Classification in Crystalline Materials**.
 
@@ -144,7 +144,7 @@ python scripts/generate_figures.py \
 
 ## 📄 License & Citation
 
-This repository is released under the **INQUIRE Lab Academic Research License** (see `LICENSE`). Non-commercial academic use only. Commercial use, redistribution, and derivative works require prior written permission, and no patent rights are granted.
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
 
 If you use this repository or dataset in your research, please cite:
 
