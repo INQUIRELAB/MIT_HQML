@@ -142,17 +142,3 @@ python scripts/generate_figures.py \
 
 ---
 
-## 📄 License & Citation
-
-Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
-
-If you use this repository or dataset in your research, please cite:
-
-```bibtex
-@article{qml_mit_classification_2026,
-  title={Quantum Machine Learning Post-Hoc Classifiers on Graph Embeddings for Metal-Insulator Transition Prediction},
-  author={LoRA MIT Collaboration},
-  journal={arXiv preprint},
-  year={2026}
-}
-```
